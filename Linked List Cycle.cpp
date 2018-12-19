@@ -88,3 +88,4 @@ int main()
     printf("%d\n",existLoop(List));
     return 0;
 }
+/*reference https://www.cnblogs.com/dancingrain/p/3405197.html*/
